@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 ## Run using 
 #Step 1 : git clone <https://github.com/Adityarish/Nike-eCommerce-.git>
 #Step 2 : flutter pub get
-#Step 3 : flutter 
+#Step 3 : flutter run 
